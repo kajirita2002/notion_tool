@@ -1,0 +1,4 @@
+github.com/dstotijn/go-notion v0.1.2 h1:OuwUC4NJQnnJLKgHRPoHaNg1EN+fWo9QO+LCTZWUZ90=
+github.com/dstotijn/go-notion v0.1.2/go.mod h1:oxd+T9Wxduj5ZN7MRiHWtyGhGZLUFsUpZHMLS4uI1Qc=
+github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
